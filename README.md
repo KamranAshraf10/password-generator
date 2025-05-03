@@ -29,7 +29,7 @@ A simple, responsive password generator built with **HTML**, **CSS**, and **Java
 1. Live Demo:
 
    ```bash
-   [git clone https://github.com/your-username/password-generator.git](https://password-generator-7hm08pl5h-kamran-ashrafs-projects.vercel.app)
+   https://password-generator-7hm08pl5h-kamran-ashrafs-projects.vercel.app
    ```
 
 2. Clone the repository:
