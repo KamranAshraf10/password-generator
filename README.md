@@ -1,6 +1,6 @@
 # 🔐 Password Generator
 
-A simple, responsive password generator built with **HTML**, **CSS**, and **JavaScript**. Users can select password length and customize character inclusion (uppercase, lowercase, numbers, symbols). Includes a copy-to-clipboard feature and animated gradient background.
+A simple, responsive password generator built with **HTML**, **CSS**, and **JavaScript**. Users can select password length and customize character inclusion (uppercase, lowercase, numbers, symbols). Includes a copy-to-clipboard feature as well, and an animated gradient background.
 
 ---
 
